@@ -1,0 +1,50 @@
+    
+ %% Load the image
+    MyImg = imread('Img.png');
+
+ %% create a new figure to show the image . 
+    figure(1);
+    imshow(MyImg); title('Img before applying laplacian mask') 
+    
+    
+ %% create laplacian,  U can define ur kernel. 
+    H = fspecial('laplacian');
+    
+ %% apply laplacian filter. 
+    resultImg = imfilter(MyImg,H);
+
+ %% create a new figure to show the effect
+    figure(2);
+    imshow(resultImg); title('Img After applying Edge detection')
+
+ %% Save Image 
+    imwrite(resultImg,'resultImg.png')
+
+%%==========
+
+ %% create a sharpen kernel: 
+Sharpen =            [ 0 , -1,  0  
+                     -1,  5, -1  
+                     0 , -1,  0 ]
+
+ %% apply sharpen filter. 
+    resultImg1 = imfilter(MyImg,Sharpen);
+
+ %% create a new figure to show the effect
+    figure(3);
+    imshow(resultImg1); title('Img After applying 3 by 3 sharpen mask')
+
+
+
+%%========
+ %% create blur kernel: 
+ LocalAvgBlur=    [ 1/9 , 1/9 ,  1/9   
+                        1/9 , 1/9 ,  1/9  
+                        1/9 , 1/9 ,  1/9 ] 
+
+ %% apply blur filter. 
+    resultImg2 = imfilter(MyImg,LocalAvgBlur);
+
+ %% create a new figure to show the effect
+    figure(4);
+    imshow(resultImg2); title('Img After applying 3 by 3 blur  mask')

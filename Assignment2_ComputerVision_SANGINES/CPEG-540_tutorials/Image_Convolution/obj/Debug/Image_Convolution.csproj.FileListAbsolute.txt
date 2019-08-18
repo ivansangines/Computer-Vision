@@ -1,0 +1,43 @@
+c:\users\munif\documents\visual studio 2012\Projects\Image_Convolution\Image_Convolution\bin\Debug\Image_Convolution.exe.config
+c:\users\munif\documents\visual studio 2012\Projects\Image_Convolution\Image_Convolution\bin\Debug\Image_Convolution.exe
+c:\users\munif\documents\visual studio 2012\Projects\Image_Convolution\Image_Convolution\bin\Debug\Image_Convolution.pdb
+c:\users\munif\documents\visual studio 2012\Projects\Image_Convolution\Image_Convolution\obj\Debug\Image_Convolution.csprojResolveAssemblyReference.cache
+c:\users\munif\documents\visual studio 2012\Projects\Image_Convolution\Image_Convolution\obj\Debug\Image_Convolution.Form1.resources
+c:\users\munif\documents\visual studio 2012\Projects\Image_Convolution\Image_Convolution\obj\Debug\Image_Convolution.Properties.Resources.resources
+c:\users\munif\documents\visual studio 2012\Projects\Image_Convolution\Image_Convolution\obj\Debug\Image_Convolution.csproj.GenerateResource.Cache
+c:\users\munif\documents\visual studio 2012\Projects\Image_Convolution\Image_Convolution\obj\Debug\Image_Convolution.exe
+c:\users\munif\documents\visual studio 2012\Projects\Image_Convolution\Image_Convolution\obj\Debug\Image_Convolution.pdb
+E:\Image_Convolution\Image_Convolution\bin\Debug\Image_Convolution.exe.config
+E:\Image_Convolution\Image_Convolution\obj\Debug\Image_Convolution.exe
+E:\Image_Convolution\Image_Convolution\obj\Debug\Image_Convolution.pdb
+D:\Image_Convolution\Image_Convolution\bin\Debug\Image_Convolution.exe.config
+D:\Image_Convolution\Image_Convolution\obj\Debug\Image_Convolution.exe
+D:\Image_Convolution\Image_Convolution\obj\Debug\Image_Convolution.pdb
+D:\Image_Convolution\Image_Convolution\bin\Debug\Image_Convolution.exe
+D:\Image_Convolution\Image_Convolution\bin\Debug\Image_Convolution.pdb
+D:\Image_Convolution\Image_Convolution\obj\Debug\Image_Convolution.csprojResolveAssemblyReference.cache
+D:\Image_Convolution\Image_Convolution\obj\Debug\Image_Convolution.Form1.resources
+D:\Image_Convolution\Image_Convolution\obj\Debug\Image_Convolution.Properties.Resources.resources
+D:\Image_Convolution\Image_Convolution\obj\Debug\Image_Convolution.csproj.GenerateResource.Cache
+E:\CPEG-540_tutorials\Image_Convolution\bin\Debug\Image_Convolution.exe.config
+E:\CPEG-540_tutorials\Image_Convolution\obj\Debug\Image_Convolution.exe
+E:\CPEG-540_tutorials\Image_Convolution\obj\Debug\Image_Convolution.pdb
+D:\CPEG-540_tutorials\Image_Convolution\bin\Debug\Image_Convolution.exe.config
+D:\CPEG-540_tutorials\Image_Convolution\obj\Debug\Image_Convolution.exe
+D:\CPEG-540_tutorials\Image_Convolution\obj\Debug\Image_Convolution.pdb
+D:\CPEG-540_tutorials\Image_Convolution\bin\Debug\Image_Convolution.exe
+D:\CPEG-540_tutorials\Image_Convolution\bin\Debug\Image_Convolution.pdb
+D:\CPEG-540_tutorials\Image_Convolution\obj\Debug\Image_Convolution.csprojResolveAssemblyReference.cache
+D:\CPEG-540_tutorials\Image_Convolution\obj\Debug\Image_Convolution.Form1.resources
+D:\CPEG-540_tutorials\Image_Convolution\obj\Debug\Image_Convolution.Properties.Resources.resources
+D:\CPEG-540_tutorials\Image_Convolution\obj\Debug\Image_Convolution.csproj.GenerateResource.Cache
+C:\Users\ivans_000\Desktop\MASTER\Spring2019\Computer Vision\CPEG-540_tutorials\Image_Convolution\bin\Debug\Image_Convolution.exe.config
+C:\Users\ivans_000\Desktop\MASTER\Spring2019\Computer Vision\CPEG-540_tutorials\Image_Convolution\bin\Debug\Image_Convolution.exe
+C:\Users\ivans_000\Desktop\MASTER\Spring2019\Computer Vision\CPEG-540_tutorials\Image_Convolution\bin\Debug\Image_Convolution.pdb
+C:\Users\ivans_000\Desktop\MASTER\Spring2019\Computer Vision\CPEG-540_tutorials\Image_Convolution\obj\Debug\Image_Convolution.csprojAssemblyReference.cache
+C:\Users\ivans_000\Desktop\MASTER\Spring2019\Computer Vision\CPEG-540_tutorials\Image_Convolution\obj\Debug\Image_Convolution.Form1.resources
+C:\Users\ivans_000\Desktop\MASTER\Spring2019\Computer Vision\CPEG-540_tutorials\Image_Convolution\obj\Debug\Image_Convolution.Properties.Resources.resources
+C:\Users\ivans_000\Desktop\MASTER\Spring2019\Computer Vision\CPEG-540_tutorials\Image_Convolution\obj\Debug\Image_Convolution.csproj.GenerateResource.cache
+C:\Users\ivans_000\Desktop\MASTER\Spring2019\Computer Vision\CPEG-540_tutorials\Image_Convolution\obj\Debug\Image_Convolution.csproj.CoreCompileInputs.cache
+C:\Users\ivans_000\Desktop\MASTER\Spring2019\Computer Vision\CPEG-540_tutorials\Image_Convolution\obj\Debug\Image_Convolution.exe
+C:\Users\ivans_000\Desktop\MASTER\Spring2019\Computer Vision\CPEG-540_tutorials\Image_Convolution\obj\Debug\Image_Convolution.pdb
