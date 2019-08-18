@@ -1,0 +1,10 @@
+C:\Users\ivans_000\Desktop\MASTER\Spring2019\Computer Vision\Assignment5_ComputerVision_SANGINES\ImageRegistration\ImageRegistration\bin\Debug\ImageRegistration.exe.config
+C:\Users\ivans_000\Desktop\MASTER\Spring2019\Computer Vision\Assignment5_ComputerVision_SANGINES\ImageRegistration\ImageRegistration\bin\Debug\ImageRegistration.exe
+C:\Users\ivans_000\Desktop\MASTER\Spring2019\Computer Vision\Assignment5_ComputerVision_SANGINES\ImageRegistration\ImageRegistration\bin\Debug\ImageRegistration.pdb
+C:\Users\ivans_000\Desktop\MASTER\Spring2019\Computer Vision\Assignment5_ComputerVision_SANGINES\ImageRegistration\ImageRegistration\obj\Debug\ImageRegistration.csprojAssemblyReference.cache
+C:\Users\ivans_000\Desktop\MASTER\Spring2019\Computer Vision\Assignment5_ComputerVision_SANGINES\ImageRegistration\ImageRegistration\obj\Debug\ImageRegistration.Form1.resources
+C:\Users\ivans_000\Desktop\MASTER\Spring2019\Computer Vision\Assignment5_ComputerVision_SANGINES\ImageRegistration\ImageRegistration\obj\Debug\ImageRegistration.Properties.Resources.resources
+C:\Users\ivans_000\Desktop\MASTER\Spring2019\Computer Vision\Assignment5_ComputerVision_SANGINES\ImageRegistration\ImageRegistration\obj\Debug\ImageRegistration.csproj.GenerateResource.cache
+C:\Users\ivans_000\Desktop\MASTER\Spring2019\Computer Vision\Assignment5_ComputerVision_SANGINES\ImageRegistration\ImageRegistration\obj\Debug\ImageRegistration.csproj.CoreCompileInputs.cache
+C:\Users\ivans_000\Desktop\MASTER\Spring2019\Computer Vision\Assignment5_ComputerVision_SANGINES\ImageRegistration\ImageRegistration\obj\Debug\ImageRegistration.exe
+C:\Users\ivans_000\Desktop\MASTER\Spring2019\Computer Vision\Assignment5_ComputerVision_SANGINES\ImageRegistration\ImageRegistration\obj\Debug\ImageRegistration.pdb
