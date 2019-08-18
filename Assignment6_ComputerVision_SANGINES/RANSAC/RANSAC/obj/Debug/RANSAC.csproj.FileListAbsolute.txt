@@ -1,0 +1,10 @@
+C:\Users\ivans_000\Desktop\MASTER\Spring2019\Computer Vision\Assignment6_ComputerVision_SANGINES\RANSAC\RANSAC\bin\Debug\RANSAC.exe.config
+C:\Users\ivans_000\Desktop\MASTER\Spring2019\Computer Vision\Assignment6_ComputerVision_SANGINES\RANSAC\RANSAC\bin\Debug\RANSAC.exe
+C:\Users\ivans_000\Desktop\MASTER\Spring2019\Computer Vision\Assignment6_ComputerVision_SANGINES\RANSAC\RANSAC\bin\Debug\RANSAC.pdb
+C:\Users\ivans_000\Desktop\MASTER\Spring2019\Computer Vision\Assignment6_ComputerVision_SANGINES\RANSAC\RANSAC\obj\Debug\RANSAC.csprojAssemblyReference.cache
+C:\Users\ivans_000\Desktop\MASTER\Spring2019\Computer Vision\Assignment6_ComputerVision_SANGINES\RANSAC\RANSAC\obj\Debug\RANSAC.Form1.resources
+C:\Users\ivans_000\Desktop\MASTER\Spring2019\Computer Vision\Assignment6_ComputerVision_SANGINES\RANSAC\RANSAC\obj\Debug\RANSAC.Properties.Resources.resources
+C:\Users\ivans_000\Desktop\MASTER\Spring2019\Computer Vision\Assignment6_ComputerVision_SANGINES\RANSAC\RANSAC\obj\Debug\RANSAC.csproj.GenerateResource.cache
+C:\Users\ivans_000\Desktop\MASTER\Spring2019\Computer Vision\Assignment6_ComputerVision_SANGINES\RANSAC\RANSAC\obj\Debug\RANSAC.csproj.CoreCompileInputs.cache
+C:\Users\ivans_000\Desktop\MASTER\Spring2019\Computer Vision\Assignment6_ComputerVision_SANGINES\RANSAC\RANSAC\obj\Debug\RANSAC.exe
+C:\Users\ivans_000\Desktop\MASTER\Spring2019\Computer Vision\Assignment6_ComputerVision_SANGINES\RANSAC\RANSAC\obj\Debug\RANSAC.pdb

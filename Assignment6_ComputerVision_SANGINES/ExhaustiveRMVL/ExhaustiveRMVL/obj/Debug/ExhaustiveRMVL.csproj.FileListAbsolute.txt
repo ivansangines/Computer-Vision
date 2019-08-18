@@ -1,0 +1,10 @@
+C:\Users\ivans_000\Desktop\MASTER\Spring2019\Computer Vision\Assignment6_ComputerVision_SANGINES\ExhaustiveRMVL\ExhaustiveRMVL\bin\Debug\ExhaustiveRMVL.exe.config
+C:\Users\ivans_000\Desktop\MASTER\Spring2019\Computer Vision\Assignment6_ComputerVision_SANGINES\ExhaustiveRMVL\ExhaustiveRMVL\bin\Debug\ExhaustiveRMVL.exe
+C:\Users\ivans_000\Desktop\MASTER\Spring2019\Computer Vision\Assignment6_ComputerVision_SANGINES\ExhaustiveRMVL\ExhaustiveRMVL\bin\Debug\ExhaustiveRMVL.pdb
+C:\Users\ivans_000\Desktop\MASTER\Spring2019\Computer Vision\Assignment6_ComputerVision_SANGINES\ExhaustiveRMVL\ExhaustiveRMVL\obj\Debug\ExhaustiveRMVL.csprojAssemblyReference.cache
+C:\Users\ivans_000\Desktop\MASTER\Spring2019\Computer Vision\Assignment6_ComputerVision_SANGINES\ExhaustiveRMVL\ExhaustiveRMVL\obj\Debug\ExhaustiveRMVL.Form1.resources
+C:\Users\ivans_000\Desktop\MASTER\Spring2019\Computer Vision\Assignment6_ComputerVision_SANGINES\ExhaustiveRMVL\ExhaustiveRMVL\obj\Debug\ExhaustiveRMVL.Properties.Resources.resources
+C:\Users\ivans_000\Desktop\MASTER\Spring2019\Computer Vision\Assignment6_ComputerVision_SANGINES\ExhaustiveRMVL\ExhaustiveRMVL\obj\Debug\ExhaustiveRMVL.csproj.GenerateResource.cache
+C:\Users\ivans_000\Desktop\MASTER\Spring2019\Computer Vision\Assignment6_ComputerVision_SANGINES\ExhaustiveRMVL\ExhaustiveRMVL\obj\Debug\ExhaustiveRMVL.csproj.CoreCompileInputs.cache
+C:\Users\ivans_000\Desktop\MASTER\Spring2019\Computer Vision\Assignment6_ComputerVision_SANGINES\ExhaustiveRMVL\ExhaustiveRMVL\obj\Debug\ExhaustiveRMVL.exe
+C:\Users\ivans_000\Desktop\MASTER\Spring2019\Computer Vision\Assignment6_ComputerVision_SANGINES\ExhaustiveRMVL\ExhaustiveRMVL\obj\Debug\ExhaustiveRMVL.pdb
